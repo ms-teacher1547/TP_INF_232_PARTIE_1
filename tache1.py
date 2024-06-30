@@ -52,6 +52,6 @@ if __name__ == "__main__":
     top_25_clubs = count_clubs(data_filtered)
 
     # Génération du fichier CSV
-    nom_fichier = "DARA_GUERI_EPL.csv"
+    nom_fichier = "MAHAMAT_SALEH_MAHAMAT_EPL.csv"
     generate_csv(data_filtered, top_25_clubs, nom_fichier)
     print(f"Fichier genere : {nom_fichier}")

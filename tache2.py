@@ -80,7 +80,7 @@ def linear_regression(X, y):
 
 # Exécution de la tâche 2
 if __name__ == "__main__":
-    nom_fichier = "DARA_GUERI_EPL.csv"
+    nom_fichier = "MAHAMAT_SALEH_MAHAMAT_EPL.csv"
     data = read_csv(nom_fichier)
 
     # Préparation des données pour la régression linéaire
